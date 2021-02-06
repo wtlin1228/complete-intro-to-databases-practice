@@ -2,6 +2,8 @@
 
 Course Repo: https://github.com/wtlin1228/complete-intro-to-databases
 
+Course Slide: https://btholt.github.io/complete-intro-to-databases/
+
 ## How to run it quickly
 
 npm run install
